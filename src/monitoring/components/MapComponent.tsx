@@ -141,37 +141,6 @@ const MapComponent: React.FC<MapComponentProps> = ({ activeDeviceTypes }) => {
     }
   };
 
-  // In your DeviceTable component, update the renderLastActive function:
-
-  // Render last active time with appropriate color and show actual time in IST below
-  const renderLastActive = (time: string, isoString: string) => {
-    // Parse time to determine color for the relative time
-    let bgColor = "bg-green-500";
-    let textColor = "text-white";
-
-    if (time.includes("hour") || time.includes("day")) {
-      bgColor = "bg-red-500";
-    } else if (time.includes("minutes") && parseInt(time) > 30) {
-      bgColor = "bg-orange-400";
-    }
-
-    // Format the actual time in IST
-    const istTime = moment.utc(isoString).utcOffset("+05:30").format("hh:mm A");
-
-    return (
-      <div className="flex flex-col items-end">
-        <span className="text-xs text-gray-500 mb-1">Last Active</span>
-
-        <div
-          className={`${bgColor} ${textColor} text-xs px-3 py-1 rounded-full mb-1`}
-        >
-          {time}
-        </div>
-        <span className="text-xs text-gray-500">{istTime}</span>
-      </div>
-    );
-  };
-
   // Fetch devices on component mount
   useEffect(() => {
     fetchDevices();
