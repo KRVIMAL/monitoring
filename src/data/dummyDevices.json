@@ -1,0 +1,1404 @@
+{
+    "devices": [
+      {
+        "imei": "214567842560",
+        "label": "Smart Lock-1",
+        "tripStartDate": "2025-04-16T08:00",
+        "batteryPercentage": 100,
+        "coordinates": {
+          "lat": 28.628858,
+          "lng": 77.222988
+        },
+        "lastActive": "12 min",
+        "isFavorite": true,
+        "tripId": "TRIP-001",
+        "deviceType": "lock"
+      },
+      {
+        "imei": "214567842561",
+        "label": "Vehicle-2",
+        "tripStartDate": "2025-04-17T09:00",
+        "batteryPercentage": 100,
+        "coordinates": {
+          "lat": 28.62761,
+          "lng": 77.197286
+        },
+        "lastActive": "15 min",
+        "isFavorite": true,
+        "tripId": "TRIP-002",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842562",
+        "label": "AIS 140-3",
+        "tripStartDate": "2025-04-18T10:00",
+        "batteryPercentage": 95,
+        "coordinates": {
+          "lat": 28.632118,
+          "lng": 77.236182
+        },
+        "lastActive": "15 min",
+        "isFavorite": false,
+        "tripId": "TRIP-003",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842563",
+        "label": "DLIZD2788-4",
+        "tripStartDate": "2025-04-19T11:00",
+        "batteryPercentage": 95,
+        "coordinates": {
+          "lat": 28.654664,
+          "lng": 77.227102
+        },
+        "lastActive": "30 min",
+        "isFavorite": false,
+        "tripId": "TRIP-004",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842564",
+        "label": "DLIZD2788-5",
+        "tripStartDate": "2025-04-20T12:00",
+        "batteryPercentage": 75,
+        "coordinates": {
+          "lat": 28.617717,
+          "lng": 77.218396
+        },
+        "lastActive": "10 min",
+        "isFavorite": false,
+        "tripId": "TRIP-005",
+        "deviceType": "lock"
+      },
+      {
+        "imei": "214567842565",
+        "label": "Smart Lock-6",
+        "tripStartDate": "2025-04-21T13:00",
+        "batteryPercentage": 60,
+        "coordinates": {
+          "lat": 28.651954,
+          "lng": 77.226229
+        },
+        "lastActive": "20 min",
+        "isFavorite": true,
+        "tripId": "TRIP-006",
+        "deviceType": "lock"
+      },
+      {
+        "imei": "214567842566",
+        "label": "Smart Device-7",
+        "tripStartDate": "2025-04-22T14:00",
+        "batteryPercentage": 40,
+        "coordinates": {
+          "lat": 28.62458,
+          "lng": 77.22414
+        },
+        "lastActive": "12 min",
+        "isFavorite": true,
+        "tripId": "TRIP-007",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842567",
+        "label": "GPS Device-8",
+        "tripStartDate": "2025-04-23T15:00",
+        "batteryPercentage": 90,
+        "coordinates": {
+          "lat": 28.637778,
+          "lng": 77.241328
+        },
+        "lastActive": "35 min",
+        "isFavorite": true,
+        "tripId": "TRIP-008",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842568",
+        "label": "Smart Lock-9",
+        "tripStartDate": "2025-04-24T16:00",
+        "batteryPercentage": 100,
+        "coordinates": {
+          "lat": 28.623394,
+          "lng": 77.216795
+        },
+        "lastActive": "10 min",
+        "isFavorite": true,
+        "tripId": "TRIP-009",
+        "deviceType": "lock"
+      },
+      {
+        "imei": "214567842569",
+        "label": "GPS Tracker-10",
+        "tripStartDate": "2025-04-25T17:00",
+        "batteryPercentage": 90,
+        "coordinates": {
+          "lat": 28.621206,
+          "lng": 77.222209
+        },
+        "lastActive": "30 min",
+        "isFavorite": true,
+        "tripId": "TRIP-010",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842570",
+        "label": "GPS Tracker-11",
+        "tripStartDate": "2025-04-26T18:00",
+        "batteryPercentage": 90,
+        "coordinates": {
+          "lat": 28.632367,
+          "lng": 77.211637
+        },
+        "lastActive": "20 min",
+        "isFavorite": false,
+        "tripId": "TRIP-011",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842571",
+        "label": "DLIZD2788-12",
+        "tripStartDate": "2025-04-27T19:00",
+        "batteryPercentage": 95,
+        "coordinates": {
+          "lat": 28.606484,
+          "lng": 77.232847
+        },
+        "lastActive": "15 min",
+        "isFavorite": true,
+        "tripId": "TRIP-012",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842572",
+        "label": "Vehicle-13",
+        "tripStartDate": "2025-04-28T20:00",
+        "batteryPercentage": 90,
+        "coordinates": {
+          "lat": 28.623375,
+          "lng": 77.227152
+        },
+        "lastActive": "20 min",
+        "isFavorite": true,
+        "tripId": "TRIP-013",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842573",
+        "label": "AIS 140-14",
+        "tripStartDate": "2025-04-29T21:00",
+        "batteryPercentage": 95,
+        "coordinates": {
+          "lat": 28.628323,
+          "lng": 77.228117
+        },
+        "lastActive": "60 min",
+        "isFavorite": true,
+        "tripId": "TRIP-014",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842574",
+        "label": "Vehicle-15",
+        "tripStartDate": "2025-04-30T22:00",
+        "batteryPercentage": 75,
+        "coordinates": {
+          "lat": 28.652038,
+          "lng": 77.243097
+        },
+        "lastActive": "45 min",
+        "isFavorite": true,
+        "tripId": "TRIP-015",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842575",
+        "label": "GPS Tracker-16",
+        "tripStartDate": "2025-05-01T23:00",
+        "batteryPercentage": 75,
+        "coordinates": {
+          "lat": 28.627475,
+          "lng": 77.2224
+        },
+        "lastActive": "15 min",
+        "isFavorite": true,
+        "tripId": "TRIP-016",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842576",
+        "label": "DLIZD2788-17",
+        "tripStartDate": "2025-05-02T08:00",
+        "batteryPercentage": 40,
+        "coordinates": {
+          "lat": 28.641706,
+          "lng": 77.211171
+        },
+        "lastActive": "15 min",
+        "isFavorite": false,
+        "tripId": "TRIP-017",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842577",
+        "label": "Vehicle-18",
+        "tripStartDate": "2025-05-03T09:00",
+        "batteryPercentage": 75,
+        "coordinates": {
+          "lat": 28.636942,
+          "lng": 77.211433
+        },
+        "lastActive": "30 min",
+        "isFavorite": true,
+        "tripId": "TRIP-018",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842578",
+        "label": "Vehicle-19",
+        "tripStartDate": "2025-05-04T10:00",
+        "batteryPercentage": 90,
+        "coordinates": {
+          "lat": 28.612103,
+          "lng": 77.208769
+        },
+        "lastActive": "10 min",
+        "isFavorite": true,
+        "tripId": "TRIP-019",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842579",
+        "label": "DLIZD2788-20",
+        "tripStartDate": "2025-05-05T11:00",
+        "batteryPercentage": 40,
+        "coordinates": {
+          "lat": 28.631361,
+          "lng": 77.221535
+        },
+        "lastActive": "10 min",
+        "isFavorite": true,
+        "tripId": "TRIP-020",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842580",
+        "label": "DLIZD2788-21",
+        "tripStartDate": "2025-05-06T12:00",
+        "batteryPercentage": 90,
+        "coordinates": {
+          "lat": 28.637954,
+          "lng": 77.222867
+        },
+        "lastActive": "20 min",
+        "isFavorite": true,
+        "tripId": "TRIP-021",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842581",
+        "label": "Vehicle-22",
+        "tripStartDate": "2025-05-07T13:00",
+        "batteryPercentage": 90,
+        "coordinates": {
+          "lat": 28.643632,
+          "lng": 77.204493
+        },
+        "lastActive": "12 min",
+        "isFavorite": false,
+        "tripId": "TRIP-022",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842582",
+        "label": "Vehicle-23",
+        "tripStartDate": "2025-05-08T14:00",
+        "batteryPercentage": 60,
+        "coordinates": {
+          "lat": 28.626318,
+          "lng": 77.218196
+        },
+        "lastActive": "60 min",
+        "isFavorite": false,
+        "tripId": "TRIP-023",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842583",
+        "label": "Vehicle-24",
+        "tripStartDate": "2025-05-09T15:00",
+        "batteryPercentage": 40,
+        "coordinates": {
+          "lat": 28.646523,
+          "lng": 77.195144
+        },
+        "lastActive": "20 min",
+        "isFavorite": true,
+        "tripId": "TRIP-024",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842584",
+        "label": "DLIZD2788-25",
+        "tripStartDate": "2025-05-10T16:00",
+        "batteryPercentage": 95,
+        "coordinates": {
+          "lat": 28.645731,
+          "lng": 77.209672
+        },
+        "lastActive": "14 min",
+        "isFavorite": false,
+        "tripId": "TRIP-025",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842585",
+        "label": "Vehicle-26",
+        "tripStartDate": "2025-05-11T17:00",
+        "batteryPercentage": 80,
+        "coordinates": {
+          "lat": 28.610241,
+          "lng": 77.224569
+        },
+        "lastActive": "45 min",
+        "isFavorite": true,
+        "tripId": "TRIP-026",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842586",
+        "label": "Vehicle-27",
+        "tripStartDate": "2025-05-12T18:00",
+        "batteryPercentage": 90,
+        "coordinates": {
+          "lat": 28.619765,
+          "lng": 77.221735
+        },
+        "lastActive": "35 min",
+        "isFavorite": true,
+        "tripId": "TRIP-027",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842587",
+        "label": "Vehicle-28",
+        "tripStartDate": "2025-05-13T19:00",
+        "batteryPercentage": 40,
+        "coordinates": {
+          "lat": 28.605143,
+          "lng": 77.233781
+        },
+        "lastActive": "10 min",
+        "isFavorite": true,
+        "tripId": "TRIP-028",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842588",
+        "label": "Smart Device-29",
+        "tripStartDate": "2025-05-14T20:00",
+        "batteryPercentage": 40,
+        "coordinates": {
+          "lat": 28.642528,
+          "lng": 77.209104
+        },
+        "lastActive": "20 min",
+        "isFavorite": true,
+        "tripId": "TRIP-029",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842589",
+        "label": "Smart Device-30",
+        "tripStartDate": "2025-05-15T21:00",
+        "batteryPercentage": 95,
+        "coordinates": {
+          "lat": 28.634644,
+          "lng": 77.218439
+        },
+        "lastActive": "45 min",
+        "isFavorite": false,
+        "tripId": "TRIP-030",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842590",
+        "label": "DLIZD2788-31",
+        "tripStartDate": "2025-05-16T22:00",
+        "batteryPercentage": 100,
+        "coordinates": {
+          "lat": 28.608616,
+          "lng": 77.241635
+        },
+        "lastActive": "35 min",
+        "isFavorite": false,
+        "tripId": "TRIP-031",
+        "deviceType": "lock"
+      },
+      {
+        "imei": "214567842591",
+        "label": "Vehicle-32",
+        "tripStartDate": "2025-05-17T23:00",
+        "batteryPercentage": 75,
+        "coordinates": {
+          "lat": 28.639366,
+          "lng": 77.231987
+        },
+        "lastActive": "15 min",
+        "isFavorite": true,
+        "tripId": "TRIP-032",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842592",
+        "label": "GPS Tracker-33",
+        "tripStartDate": "2025-05-18T08:00",
+        "batteryPercentage": 40,
+        "coordinates": {
+          "lat": 28.635486,
+          "lng": 77.243095
+        },
+        "lastActive": "20 min",
+        "isFavorite": false,
+        "tripId": "TRIP-033",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842593",
+        "label": "GPS Device-34",
+        "tripStartDate": "2025-05-19T09:00",
+        "batteryPercentage": 40,
+        "coordinates": {
+          "lat": 28.612167,
+          "lng": 77.23067
+        },
+        "lastActive": "10 min",
+        "isFavorite": true,
+        "tripId": "TRIP-034",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842594",
+        "label": "DLIZD2788-35",
+        "tripStartDate": "2025-05-20T10:00",
+        "batteryPercentage": 75,
+        "coordinates": {
+          "lat": 28.644895,
+          "lng": 77.203037
+        },
+        "lastActive": "35 min",
+        "isFavorite": false,
+        "tripId": "TRIP-035",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842595",
+        "label": "DLIZD2788-36",
+        "tripStartDate": "2025-05-21T11:00",
+        "batteryPercentage": 80,
+        "coordinates": {
+          "lat": 28.616026,
+          "lng": 77.23718
+        },
+        "lastActive": "30 min",
+        "isFavorite": false,
+        "tripId": "TRIP-036",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842596",
+        "label": "DLIZD2788-37",
+        "tripStartDate": "2025-05-22T12:00",
+        "batteryPercentage": 95,
+        "coordinates": {
+          "lat": 28.64943,
+          "lng": 77.206004
+        },
+        "lastActive": "20 min",
+        "isFavorite": false,
+        "tripId": "TRIP-037",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842597",
+        "label": "Smart Lock-38",
+        "tripStartDate": "2025-05-23T13:00",
+        "batteryPercentage": 60,
+        "coordinates": {
+          "lat": 28.614048,
+          "lng": 77.236455
+        },
+        "lastActive": "30 min",
+        "isFavorite": true,
+        "tripId": "TRIP-038",
+        "deviceType": "lock"
+      },
+      {
+        "imei": "214567842598",
+        "label": "GPS Tracker-39",
+        "tripStartDate": "2025-05-24T14:00",
+        "batteryPercentage": 100,
+        "coordinates": {
+          "lat": 28.614724,
+          "lng": 77.24206
+        },
+        "lastActive": "35 min",
+        "isFavorite": false,
+        "tripId": "TRIP-039",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842599",
+        "label": "Vehicle-40",
+        "tripStartDate": "2025-05-25T15:00",
+        "batteryPercentage": 60,
+        "coordinates": {
+          "lat": 28.630004,
+          "lng": 77.221403
+        },
+        "lastActive": "10 min",
+        "isFavorite": true,
+        "tripId": "TRIP-040",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842600",
+        "label": "Smart Lock-41",
+        "tripStartDate": "2025-05-26T16:00",
+        "batteryPercentage": 75,
+        "coordinates": {
+          "lat": 28.627748,
+          "lng": 77.203299
+        },
+        "lastActive": "60 min",
+        "isFavorite": true,
+        "tripId": "TRIP-041",
+        "deviceType": "lock"
+      },
+      {
+        "imei": "214567842601",
+        "label": "DLIZD2788-42",
+        "tripStartDate": "2025-05-27T17:00",
+        "batteryPercentage": 60,
+        "coordinates": {
+          "lat": 28.641223,
+          "lng": 77.239374
+        },
+        "lastActive": "12 min",
+        "isFavorite": true,
+        "tripId": "TRIP-042",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842602",
+        "label": "Vehicle-43",
+        "tripStartDate": "2025-05-28T18:00",
+        "batteryPercentage": 90,
+        "coordinates": {
+          "lat": 28.630403,
+          "lng": 77.224884
+        },
+        "lastActive": "30 min",
+        "isFavorite": true,
+        "tripId": "TRIP-043",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842603",
+        "label": "Smart Device-44",
+        "tripStartDate": "2025-05-29T19:00",
+        "batteryPercentage": 80,
+        "coordinates": {
+          "lat": 28.648411,
+          "lng": 77.244063
+        },
+        "lastActive": "45 min",
+        "isFavorite": false,
+        "tripId": "TRIP-044",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842604",
+        "label": "GPS Device-45",
+        "tripStartDate": "2025-05-30T20:00",
+        "batteryPercentage": 95,
+        "coordinates": {
+          "lat": 28.644485,
+          "lng": 77.240018
+        },
+        "lastActive": "14 min",
+        "isFavorite": true,
+        "tripId": "TRIP-045",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842605",
+        "label": "Vehicle-46",
+        "tripStartDate": "2025-05-31T21:00",
+        "batteryPercentage": 90,
+        "coordinates": {
+          "lat": 28.639691,
+          "lng": 77.234365
+        },
+        "lastActive": "45 min",
+        "isFavorite": false,
+        "tripId": "TRIP-046",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842606",
+        "label": "DLIZD2788-47",
+        "tripStartDate": "2025-06-01T22:00",
+        "batteryPercentage": 60,
+        "coordinates": {
+          "lat": 28.609635,
+          "lng": 77.236597
+        },
+        "lastActive": "45 min",
+        "isFavorite": false,
+        "tripId": "TRIP-047",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842607",
+        "label": "DLIZD2788-48",
+        "tripStartDate": "2025-06-02T23:00",
+        "batteryPercentage": 40,
+        "coordinates": {
+          "lat": 28.616092,
+          "lng": 77.23355
+        },
+        "lastActive": "10 min",
+        "isFavorite": true,
+        "tripId": "TRIP-048",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842608",
+        "label": "Vehicle-49",
+        "tripStartDate": "2025-06-03T08:00",
+        "batteryPercentage": 100,
+        "coordinates": {
+          "lat": 28.653211,
+          "lng": 77.237913
+        },
+        "lastActive": "15 min",
+        "isFavorite": false,
+        "tripId": "TRIP-049",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842609",
+        "label": "DLIZD2788-50",
+        "tripStartDate": "2025-06-04T09:00",
+        "batteryPercentage": 60,
+        "coordinates": {
+          "lat": 28.641855,
+          "lng": 77.224822
+        },
+        "lastActive": "45 min",
+        "isFavorite": true,
+        "tripId": "TRIP-050",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842610",
+        "label": "AIS 140-51",
+        "tripStartDate": "2025-06-05T10:00",
+        "batteryPercentage": 80,
+        "coordinates": {
+          "lat": 28.629737,
+          "lng": 77.240303
+        },
+        "lastActive": "20 min",
+        "isFavorite": false,
+        "tripId": "TRIP-051",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842611",
+        "label": "DLIZD2788-52",
+        "tripStartDate": "2025-06-06T11:00",
+        "batteryPercentage": 90,
+        "coordinates": {
+          "lat": 28.638933,
+          "lng": 77.196777
+        },
+        "lastActive": "60 min",
+        "isFavorite": true,
+        "tripId": "TRIP-052",
+        "deviceType": "lock"
+      },
+      {
+        "imei": "214567842612",
+        "label": "Vehicle-53",
+        "tripStartDate": "2025-06-07T12:00",
+        "batteryPercentage": 100,
+        "coordinates": {
+          "lat": 28.637262,
+          "lng": 77.216922
+        },
+        "lastActive": "12 min",
+        "isFavorite": true,
+        "tripId": "TRIP-053",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842613",
+        "label": "DLIZD2788-54",
+        "tripStartDate": "2025-06-08T13:00",
+        "batteryPercentage": 90,
+        "coordinates": {
+          "lat": 28.618495,
+          "lng": 77.195165
+        },
+        "lastActive": "20 min",
+        "isFavorite": true,
+        "tripId": "TRIP-054",
+        "deviceType": "lock"
+      },
+      {
+        "imei": "214567842614",
+        "label": "GPS Tracker-55",
+        "tripStartDate": "2025-06-09T14:00",
+        "batteryPercentage": 40,
+        "coordinates": {
+          "lat": 28.607269,
+          "lng": 77.19659
+        },
+        "lastActive": "20 min",
+        "isFavorite": false,
+        "tripId": "TRIP-055",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842615",
+        "label": "Smart Lock-56",
+        "tripStartDate": "2025-06-10T15:00",
+        "batteryPercentage": 75,
+        "coordinates": {
+          "lat": 28.641474,
+          "lng": 77.211572
+        },
+        "lastActive": "14 min",
+        "isFavorite": false,
+        "tripId": "TRIP-056",
+        "deviceType": "lock"
+      },
+      {
+        "imei": "214567842616",
+        "label": "Smart Lock-57",
+        "tripStartDate": "2025-06-11T16:00",
+        "batteryPercentage": 40,
+        "coordinates": {
+          "lat": 28.627166,
+          "lng": 77.236689
+        },
+        "lastActive": "15 min",
+        "isFavorite": false,
+        "tripId": "TRIP-057",
+        "deviceType": "lock"
+      },
+      {
+        "imei": "214567842617",
+        "label": "Smart Device-58",
+        "tripStartDate": "2025-06-12T17:00",
+        "batteryPercentage": 40,
+        "coordinates": {
+          "lat": 28.632774,
+          "lng": 77.240674
+        },
+        "lastActive": "35 min",
+        "isFavorite": false,
+        "tripId": "TRIP-058",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842618",
+        "label": "AIS 140-59",
+        "tripStartDate": "2025-06-13T18:00",
+        "batteryPercentage": 100,
+        "coordinates": {
+          "lat": 28.630848,
+          "lng": 77.231518
+        },
+        "lastActive": "60 min",
+        "isFavorite": false,
+        "tripId": "TRIP-059",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842619",
+        "label": "Vehicle-60",
+        "tripStartDate": "2025-06-14T19:00",
+        "batteryPercentage": 40,
+        "coordinates": {
+          "lat": 28.614638,
+          "lng": 77.234906
+        },
+        "lastActive": "10 min",
+        "isFavorite": true,
+        "tripId": "TRIP-060",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842620",
+        "label": "DLIZD2788-61",
+        "tripStartDate": "2025-06-15T20:00",
+        "batteryPercentage": 60,
+        "coordinates": {
+          "lat": 28.645559,
+          "lng": 77.241589
+        },
+        "lastActive": "20 min",
+        "isFavorite": false,
+        "tripId": "TRIP-061",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842621",
+        "label": "Smart Lock-62",
+        "tripStartDate": "2025-06-16T21:00",
+        "batteryPercentage": 100,
+        "coordinates": {
+          "lat": 28.625131,
+          "lng": 77.220444
+        },
+        "lastActive": "10 min",
+        "isFavorite": false,
+        "tripId": "TRIP-062",
+        "deviceType": "lock"
+      },
+      {
+        "imei": "214567842622",
+        "label": "Vehicle-63",
+        "tripStartDate": "2025-06-17T22:00",
+        "batteryPercentage": 60,
+        "coordinates": {
+          "lat": 28.629724,
+          "lng": 77.237136
+        },
+        "lastActive": "45 min",
+        "isFavorite": true,
+        "tripId": "TRIP-063",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842623",
+        "label": "Smart Device-64",
+        "tripStartDate": "2025-06-18T23:00",
+        "batteryPercentage": 60,
+        "coordinates": {
+          "lat": 28.641614,
+          "lng": 77.238127
+        },
+        "lastActive": "45 min",
+        "isFavorite": false,
+        "tripId": "TRIP-064",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842624",
+        "label": "Vehicle-65",
+        "tripStartDate": "2025-06-19T08:00",
+        "batteryPercentage": 75,
+        "coordinates": {
+          "lat": 28.616604,
+          "lng": 77.222377
+        },
+        "lastActive": "30 min",
+        "isFavorite": true,
+        "tripId": "TRIP-065",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842625",
+        "label": "DLIZD2788-66",
+        "tripStartDate": "2025-06-20T09:00",
+        "batteryPercentage": 80,
+        "coordinates": {
+          "lat": 28.630076,
+          "lng": 77.22572
+        },
+        "lastActive": "10 min",
+        "isFavorite": true,
+        "tripId": "TRIP-066",
+        "deviceType": "lock"
+      },
+      {
+        "imei": "214567842626",
+        "label": "Vehicle-67",
+        "tripStartDate": "2025-06-21T10:00",
+        "batteryPercentage": 40,
+        "coordinates": {
+          "lat": 28.625812,
+          "lng": 77.196761
+        },
+        "lastActive": "30 min",
+        "isFavorite": true,
+        "tripId": "TRIP-067",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842627",
+        "label": "Vehicle-68",
+        "tripStartDate": "2025-06-22T11:00",
+        "batteryPercentage": 40,
+        "coordinates": {
+          "lat": 28.628966,
+          "lng": 77.235734
+        },
+        "lastActive": "20 min",
+        "isFavorite": true,
+        "tripId": "TRIP-068",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842628",
+        "label": "Smart Device-69",
+        "tripStartDate": "2025-06-23T12:00",
+        "batteryPercentage": 60,
+        "coordinates": {
+          "lat": 28.609592,
+          "lng": 77.215212
+        },
+        "lastActive": "30 min",
+        "isFavorite": false,
+        "tripId": "TRIP-069",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842629",
+        "label": "Vehicle-70",
+        "tripStartDate": "2025-06-24T13:00",
+        "batteryPercentage": 40,
+        "coordinates": {
+          "lat": 28.635116,
+          "lng": 77.228828
+        },
+        "lastActive": "15 min",
+        "isFavorite": false,
+        "tripId": "TRIP-070",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842630",
+        "label": "DLIZD2788-71",
+        "tripStartDate": "2025-06-25T14:00",
+        "batteryPercentage": 75,
+        "coordinates": {
+          "lat": 28.639274,
+          "lng": 77.231908
+        },
+        "lastActive": "20 min",
+        "isFavorite": true,
+        "tripId": "TRIP-071",
+        "deviceType": "lock"
+      },
+      {
+        "imei": "214567842631",
+        "label": "GPS Device-72",
+        "tripStartDate": "2025-06-26T15:00",
+        "batteryPercentage": 100,
+        "coordinates": {
+          "lat": 28.61403,
+          "lng": 77.233944
+        },
+        "lastActive": "30 min",
+        "isFavorite": true,
+        "tripId": "TRIP-072",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842632",
+        "label": "Smart Device-73",
+        "tripStartDate": "2025-06-27T16:00",
+        "batteryPercentage": 75,
+        "coordinates": {
+          "lat": 28.630517,
+          "lng": 77.236598
+        },
+        "lastActive": "12 min",
+        "isFavorite": false,
+        "tripId": "TRIP-073",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842633",
+        "label": "DLIZD2788-74",
+        "tripStartDate": "2025-06-28T17:00",
+        "batteryPercentage": 75,
+        "coordinates": {
+          "lat": 28.632574,
+          "lng": 77.200882
+        },
+        "lastActive": "12 min",
+        "isFavorite": false,
+        "tripId": "TRIP-074",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842634",
+        "label": "DLIZD2788-75",
+        "tripStartDate": "2025-06-29T18:00",
+        "batteryPercentage": 90,
+        "coordinates": {
+          "lat": 28.628825,
+          "lng": 77.225224
+        },
+        "lastActive": "45 min",
+        "isFavorite": false,
+        "tripId": "TRIP-075",
+        "deviceType": "lock"
+      },
+      {
+        "imei": "214567842635",
+        "label": "Smart Lock-76",
+        "tripStartDate": "2025-06-30T19:00",
+        "batteryPercentage": 75,
+        "coordinates": {
+          "lat": 28.613018,
+          "lng": 77.230015
+        },
+        "lastActive": "35 min",
+        "isFavorite": true,
+        "tripId": "TRIP-076",
+        "deviceType": "lock"
+      },
+      {
+        "imei": "214567842636",
+        "label": "Vehicle-77",
+        "tripStartDate": "2025-07-01T20:00",
+        "batteryPercentage": 75,
+        "coordinates": {
+          "lat": 28.605594,
+          "lng": 77.241578
+        },
+        "lastActive": "12 min",
+        "isFavorite": true,
+        "tripId": "TRIP-077",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842637",
+        "label": "Vehicle-78",
+        "tripStartDate": "2025-07-02T21:00",
+        "batteryPercentage": 90,
+        "coordinates": {
+          "lat": 28.625945,
+          "lng": 77.199212
+        },
+        "lastActive": "15 min",
+        "isFavorite": false,
+        "tripId": "TRIP-078",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842638",
+        "label": "DLIZD2788-79",
+        "tripStartDate": "2025-07-03T22:00",
+        "batteryPercentage": 75,
+        "coordinates": {
+          "lat": 28.616423,
+          "lng": 77.200064
+        },
+        "lastActive": "30 min",
+        "isFavorite": false,
+        "tripId": "TRIP-079",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842639",
+        "label": "Vehicle-80",
+        "tripStartDate": "2025-07-04T23:00",
+        "batteryPercentage": 75,
+        "coordinates": {
+          "lat": 28.620449,
+          "lng": 77.204409
+        },
+        "lastActive": "15 min",
+        "isFavorite": false,
+        "tripId": "TRIP-080",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842640",
+        "label": "Vehicle-81",
+        "tripStartDate": "2025-07-05T08:00",
+        "batteryPercentage": 40,
+        "coordinates": {
+          "lat": 28.612598,
+          "lng": 77.234999
+        },
+        "lastActive": "60 min",
+        "isFavorite": true,
+        "tripId": "TRIP-081",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842641",
+        "label": "Vehicle-82",
+        "tripStartDate": "2025-07-06T09:00",
+        "batteryPercentage": 80,
+        "coordinates": {
+          "lat": 28.65495,
+          "lng": 77.205589
+        },
+        "lastActive": "12 min",
+        "isFavorite": false,
+        "tripId": "TRIP-082",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842642",
+        "label": "GPS Tracker-83",
+        "tripStartDate": "2025-07-07T10:00",
+        "batteryPercentage": 75,
+        "coordinates": {
+          "lat": 28.644089,
+          "lng": 77.228467
+        },
+        "lastActive": "35 min",
+        "isFavorite": true,
+        "tripId": "TRIP-083",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842643",
+        "label": "Vehicle-84",
+        "tripStartDate": "2025-07-08T11:00",
+        "batteryPercentage": 40,
+        "coordinates": {
+          "lat": 28.638714,
+          "lng": 77.227534
+        },
+        "lastActive": "60 min",
+        "isFavorite": false,
+        "tripId": "TRIP-084",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842644",
+        "label": "DLIZD2788-85",
+        "tripStartDate": "2025-07-09T12:00",
+        "batteryPercentage": 40,
+        "coordinates": {
+          "lat": 28.621432,
+          "lng": 77.197971
+        },
+        "lastActive": "60 min",
+        "isFavorite": true,
+        "tripId": "TRIP-085",
+        "deviceType": "lock"
+      },
+      {
+        "imei": "214567842645",
+        "label": "DLIZD2788-86",
+        "tripStartDate": "2025-07-10T13:00",
+        "batteryPercentage": 40,
+        "coordinates": {
+          "lat": 28.643238,
+          "lng": 77.227638
+        },
+        "lastActive": "30 min",
+        "isFavorite": true,
+        "tripId": "TRIP-086",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842646",
+        "label": "Smart Device-87",
+        "tripStartDate": "2025-07-11T14:00",
+        "batteryPercentage": 90,
+        "coordinates": {
+          "lat": 28.610552,
+          "lng": 77.23548
+        },
+        "lastActive": "10 min",
+        "isFavorite": false,
+        "tripId": "TRIP-087",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842647",
+        "label": "Vehicle-88",
+        "tripStartDate": "2025-07-12T15:00",
+        "batteryPercentage": 90,
+        "coordinates": {
+          "lat": 28.631591,
+          "lng": 77.221944
+        },
+        "lastActive": "12 min",
+        "isFavorite": false,
+        "tripId": "TRIP-088",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842648",
+        "label": "GPS Tracker-89",
+        "tripStartDate": "2025-07-13T16:00",
+        "batteryPercentage": 40,
+        "coordinates": {
+          "lat": 28.632895,
+          "lng": 77.210239
+        },
+        "lastActive": "45 min",
+        "isFavorite": true,
+        "tripId": "TRIP-089",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842649",
+        "label": "Smart Device-90",
+        "tripStartDate": "2025-07-14T17:00",
+        "batteryPercentage": 100,
+        "coordinates": {
+          "lat": 28.621801,
+          "lng": 77.211648
+        },
+        "lastActive": "30 min",
+        "isFavorite": false,
+        "tripId": "TRIP-090",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842650",
+        "label": "DLIZD2788-91",
+        "tripStartDate": "2025-07-15T18:00",
+        "batteryPercentage": 100,
+        "coordinates": {
+          "lat": 28.622187,
+          "lng": 77.222922
+        },
+        "lastActive": "15 min",
+        "isFavorite": false,
+        "tripId": "TRIP-091",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842651",
+        "label": "Vehicle-92",
+        "tripStartDate": "2025-07-16T19:00",
+        "batteryPercentage": 100,
+        "coordinates": {
+          "lat": 28.644094,
+          "lng": 77.206075
+        },
+        "lastActive": "45 min",
+        "isFavorite": true,
+        "tripId": "TRIP-092",
+        "deviceType": "vehicle"
+      },
+      {
+        "imei": "214567842652",
+        "label": "GPS Tracker-93",
+        "tripStartDate": "2025-07-17T20:00",
+        "batteryPercentage": 80,
+        "coordinates": {
+          "lat": 28.61297,
+          "lng": 77.230954
+        },
+        "lastActive": "10 min",
+        "isFavorite": true,
+        "tripId": "TRIP-093",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842653",
+        "label": "Smart Device-94",
+        "tripStartDate": "2025-07-18T21:00",
+        "batteryPercentage": 90,
+        "coordinates": {
+          "lat": 28.62117,
+          "lng": 77.226038
+        },
+        "lastActive": "60 min",
+        "isFavorite": false,
+        "tripId": "TRIP-094",
+        "deviceType": "device"
+      },
+      {
+        "imei": "214567842654",
+        "label": "DLIZD2788-95",
+        "tripStartDate": "2025-07-19T22:00",
+        "batteryPercentage": 40,
+        "coordinates": {
+          "lat": 28.617564,
+          "lng": 77.226346
+        },
+        "lastActive": "35 min",
+        "isFavorite": true,
+        "tripId": "TRIP-095",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842655",
+        "label": "GPS Device-96",
+        "tripStartDate": "2025-07-20T23:00",
+        "batteryPercentage": 60,
+        "coordinates": {
+          "lat": 28.606917,
+          "lng": 77.232684
+        },
+        "lastActive": "12 min",
+        "isFavorite": true,
+        "tripId": "TRIP-096",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842656",
+        "label": "GPS Tracker-97",
+        "tripStartDate": "2025-07-21T08:00",
+        "batteryPercentage": 90,
+        "coordinates": {
+          "lat": 28.630239,
+          "lng": 77.206197
+        },
+        "lastActive": "15 min",
+        "isFavorite": false,
+        "tripId": "TRIP-097",
+        "deviceType": "gps"
+      },
+      {
+        "imei": "214567842657",
+        "label": "DLIZD2788-98",
+        "tripStartDate": "2025-07-22T09:00",
+        "batteryPercentage": 80,
+        "coordinates": {
+          "lat": 28.612118,
+          "lng": 77.202516
+        },
+        "lastActive": "15 min",
+        "isFavorite": true,
+        "tripId": "TRIP-098",
+        "deviceType": "lock"
+      },
+      {
+        "imei": "214567842658",
+        "label": "DLIZD2788-99",
+        "tripStartDate": "2025-07-23T10:00",
+        "batteryPercentage": 100,
+        "coordinates": {
+          "lat": 28.638122,
+          "lng": 77.200498
+        },
+        "lastActive": "20 min",
+        "isFavorite": false,
+        "tripId": "TRIP-099",
+        "deviceType": "lock"
+      },
+      {
+        "imei": "214567842659",
+        "label": "Vehicle-100",
+        "tripStartDate": "2025-07-24T11:00",
+        "batteryPercentage": 100,
+        "coordinates": {
+          "lat": 28.632758,
+          "lng": 77.215763
+        },
+        "lastActive": "15 min",
+        "isFavorite": true,
+        "tripId": "TRIP-100",
+        "deviceType": "vehicle"
+      }
+    ]
+  }
